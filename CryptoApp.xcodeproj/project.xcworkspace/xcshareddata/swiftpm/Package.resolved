@@ -1,0 +1,15 @@
+{
+  "originHash" : "1b932e7c6a139a76719d0c97ee69708e9dd35912de10241e8630686232173cb7",
+  "pins" : [
+    {
+      "identity" : "simpleswiftcrypto",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/joehinkle11/SimpleSwiftCrypto.git",
+      "state" : {
+        "revision" : "32b0d0ce3adcc727175554285d7a8c66d25b2c6d",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
