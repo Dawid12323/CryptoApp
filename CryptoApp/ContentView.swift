@@ -3,7 +3,7 @@ import SimpleSwiftCrypto
 
 struct ContentView: View {
     // Pola tekstowe
-    @State private var userInput: String = ""             // Pole 1: Wprowadzane zdania przez użytkownika do zaszyfrowania
+    @State private var userInput: String = ""             // Pole 1: Wprowadzane zdania przez użytkownika
     @State private var encryptedMessage: String = ""      // Pole 2: Zaszyfrowana wiadomość
     @State private var encryptedInput: String = ""        // Pole 3: Wklejona zaszyfrowana wiadomość
     @State private var decryptedMessage: String = ""      // Pole 4: Odszyfrowane zdanie
