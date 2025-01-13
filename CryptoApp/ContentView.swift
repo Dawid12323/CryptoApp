@@ -30,8 +30,6 @@ struct ContentView: View {
                     } else {
                         encryptedMessage = "Błąd szyfrowania: Nie udało się zaszyfrować danych."
                     }
-                } catch {
-                    encryptedMessage = "Błąd szyfrowania: \(error.localizedDescription)"
                 }
             }
             .buttonStyle(.borderedProminent)
